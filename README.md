@@ -2,6 +2,8 @@
 
 **受治理的工具型 Agent 运行时与可审计评测实验室**
 
+*Governed Runtime, Evaluation Harness, and Decision Frontier for Tool-Using Agents*
+
 [![CI](https://github.com/I-ivan-x/agent-reliability-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/I-ivan-x/agent-reliability-lab/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
@@ -219,7 +221,7 @@ GitHub Actions 在 clean checkout 中执行 Gitleaks full-history scan、locked 
 - Q5 总体状态为 `scoped_negative_complete`；controlled-prose 结论不评价 open-world language，Q5 不创建 `v4.0` 产品版本。
 - 最新稳定产品里程碑 tag 为 `v3.0-q4-reliability`；`agent-reliability-lab-q5-closed-20260717` 是非产品研究封存标记。
 - Python / API / frontend 中的 `0.1.0` 是未发布的兼容性元数据；项目未发布 PyPI、npm package 或 GitHub Release object。
-- **TrustRAG** 是历史代号，仅保留在内部标识、旧 artifact、run ID 与 tag 中以维持证据 lineage。
+- **TrustRAG** 是历史代号（legacy codename），仅保留在内部标识、旧 artifact、run ID 与 tag 中以维持证据 lineage。
 
 ## 文档导航
 
