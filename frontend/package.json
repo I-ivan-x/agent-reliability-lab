@@ -26,6 +26,6 @@
   "devDependencies": {
     "@playwright/test": "1.61.1",
     "lighthouse": "13.4.1",
-    "vite": "8.1.5"
+    "vite": "8.3.5"
   }
 }
